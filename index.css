@@ -1,13 +1,17 @@
 h2 {
     text-align: center;
-    color: rgb(140, 250, 66);
+    color: rgb(78, 133, 42);
+}
+
+h6{
+    padding-left: 15px;
 }
 
 body {
     background-color: aliceblue;
 }
 
-.irocho {
+div.irocho {
     text-align: right;
     padding-right: 10px;
 }
